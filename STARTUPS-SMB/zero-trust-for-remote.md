@@ -509,6 +509,6 @@ All employees and contractors must acknowledge receipt and understanding of this
 ---
 
 **Document Version:** 1.0  
-**Last Updated:** January 7, 2026  
+**Last Updated:** December 7, 2025
 **Next Review:** January 2027
 
