@@ -110,4 +110,4 @@ A security incident is any event that may compromise the confidentiality, integr
 
 **Document Version:** 1.0  
 **Last Updated:** October 11, 2025
-**Next Review:** October 2027
+**Next Review:** October 2026
