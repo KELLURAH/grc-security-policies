@@ -1,1 +1,14 @@
-
+﻿NIST 800-53 Rev. 5 Control ID,Control Name,Internal Policy File,Mapping Notes
+AC-2,Account Management,GLOBAL-CONTROLS/access-control.md,Covers provisioning and lifecycle management.
+AC-3,Access Enforcement,GLOBAL-CONTROLS/access-control.md,Covers logical access controls and RBAC.
+IA-2,Identification and Authentication (Organizational Users),GLOBAL-CONTROLS/access-control.md,Covers unique IDs and MFA.
+IA-5,Authenticator Management,GLOBAL-CONTROLS/access-control.md,Covers password complexity and secret management.
+SC-13,Cryptographic Protection,GLOBAL-CONTROLS/encryption-standard.md,Covers encryption in transit and at rest.
+IR-2,Incident Response Training,GLOBAL-CONTROLS/awareness-training.md,Covers role-specific incident training.
+IR-4,Incident Handling,GLOBAL-CONTROLS/incident-response.md,Covers containment and eradication.
+IR-6,Incident Reporting,GLOBAL-CONTROLS/incident-response.md,Covers notification timelines.
+IR-8,Incident Response Plan,GLOBAL-CONTROLS/incident-response.md,Covers the maintenance of IRP.
+AT-2,Security Awareness Training,GLOBAL-CONTROLS/awareness-training.md,Covers basic security training for all.
+SI-12,Information Management and Retention,INDUSTRY-VERTICALS/03-HEALTHCARE/patient-data-retention.md,Covers data lifecycle and retention periods.
+CP-2,Contingency Plan,INDUSTRY-VERTICALS/02-FINTECH/resilience-failover.md,Covers business continuity and failover.
+SR-2,Supply Chain Risk Management Plan,INDUSTRY-VERTICALS/02-FINTECH/third-party-risk-fintech.md,Covers vendor and supply chain risk.
